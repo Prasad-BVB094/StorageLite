@@ -307,3 +307,12 @@ drmemory.exe -- .\build\storagelite.exe < tests\test_script.txt
 | CLI Shell | `cli.h` | Interactive command parsing and dispatch |
 | Utilities | `utils.h` | `safe_malloc`, `safe_strncpy`, validation helpers |
 
+---
+
+<div align="center">
+
+### If this project helped you understand SSD internals, storage algorithms, or C systems programming � give it a ?
+
+*StorageLite � Where every byte has a home.*
+
+</div>
