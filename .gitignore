@@ -1,0 +1,52 @@
+# === Build Output ===
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# === Compiled Binaries ===
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.obj
+*.o
+
+# === IDE & Editor Files ===
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.DS_Store
+Thumbs.db
+
+# === Dr. Memory Output ===
+DrMemory-*/
+*.drmem
+
+# === Logs & Temp ===
+*.log
+*.tmp
+*.bak
+*~
+
+# === Internal / Private Docs ===
+LICENSE
+SRS.md
+developer_handover_report.md

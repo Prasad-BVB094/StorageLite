@@ -1,0 +1,14 @@
+create file1 1000
+write file1 thisisatestdata
+read file1
+status
+fragmentation
+wear
+create file2 500
+delete file1
+fragmentation
+gc
+fragmentation
+wear
+list
+exit
