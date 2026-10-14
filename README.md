@@ -67,7 +67,6 @@
 StorageLite/
 ├── CMakeLists.txt          # CMake build configuration
 ├── README.md
-├── SRS.md                  # Software Requirements Specification
 │
 ├── include/                # Public API headers
 │   ├── ssd.h               # SSD controller interface
@@ -119,7 +118,7 @@ StorageLite/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/StorageLite.git
+git clone https://github.com/Prasad-BVB094/StorageLite.git
 cd StorageLite
 
 # 2. Configure and build
@@ -134,7 +133,7 @@ cmake --build build
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/StorageLite.git
+git clone https://github.com/Prasad-BVB094/StorageLite.git
 cd StorageLite
 
 # 2. Configure and build
