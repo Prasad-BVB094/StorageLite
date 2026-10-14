@@ -307,16 +307,3 @@ drmemory.exe -- .\build\storagelite.exe < tests\test_script.txt
 | CLI Shell | `cli.h` | Interactive command parsing and dispatch |
 | Utilities | `utils.h` | `safe_malloc`, `safe_strncpy`, validation helpers |
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-
-Built with ❤️ and pure C.
-
-</div>
