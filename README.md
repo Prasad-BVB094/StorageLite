@@ -311,8 +311,7 @@ drmemory.exe -- .\build\storagelite.exe < tests\test_script.txt
 
 <div align="center">
 
-### If this project helped you understand SSD internals, storage algorithms, or C systems programming � give it a ?
 
-*StorageLite � Where every byte has a home.*
+*StorageLite: Where every byte has a home.*
 
 </div>
